@@ -15,4 +15,4 @@ while i<payments:
     while n<i*addendumFrequency//dividendFrequency:
         principle*=dividend
         n+=1
-    print(i*addendumFrequency, n*addendumFrequency, principle)
+    print(i*addendumFrequency, principle)
